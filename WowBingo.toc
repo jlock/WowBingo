@@ -1,0 +1,7 @@
+## Interface: 100002
+## Version: 1.0.0
+## Title: Ranchers Bingo
+## Notes: For fantasy raid night bingo
+## Author: Kurisupiboi
+
+WowBingo.lua
